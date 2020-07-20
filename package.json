@@ -1,0 +1,25 @@
+{
+  "name": "commandlineapp",
+  "version": "1.0.0",
+  "description": "testing command line setup",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelcooper/commandLineApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelcooper/commandLineApp/issues"
+  },
+  "homepage": "https://github.com/isabelcooper/commandLineApp#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.23"
+  }
+}
